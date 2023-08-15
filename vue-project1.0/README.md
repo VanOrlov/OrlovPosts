@@ -1,5 +1,5 @@
 # vue-project1.0
-
+VANEK EBLAN MAMY IBAL ahahhahahah loh
 ## Project setup
 ```
 npm install
@@ -16,4 +16,5 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
+Я ЕБЛАН Я ЕБЛАН Я НАРКОМАН Я ПИДОРАС
