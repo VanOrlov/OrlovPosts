@@ -1,0 +1,13 @@
+:root{
+    --color-blackPerl: #090d28;
+    --color-haiti: #181c3a;
+    --color-hover: rgb(30,33,65);
+    --color-placeholder: rgb(92,98,141);
+}
+@font-face {
+    font-family: "Comfortaa";
+    font-style: normal;
+    font-weight: 400;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: local("Comfortaa"), url("comfortaa.woff2") format("woff2");
+}
